@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Raihan Chowdhury. I have created this repository to showcase my data analyst projects.
-[Please follow me on] (https://www.linkedin.com/in/raihan-chowdhury-dr2022/)
+[Please follow me on](https://www.linkedin.com/in/raihan-chowdhury-dr2022/)
 Thanks for visiting my github page.
 
 <!--
