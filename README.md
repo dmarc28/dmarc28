@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raihan Chowdhury</h1>
-<h3 align="center">I am excited to share that I have successfully completed a rigorous data analyst boot camp at General Assembly, where I acquired extensive hands-on experience utilizing Python for data analysis. Throughout this immersive program, I worked on a diverse range of projects focused on data analytics.</h3>
+<h1 align="left">Hi 👋, I'm Raihan Chowdhury</h1>
+<h3 align="left">I am excited to share that I have successfully completed a rigorous data analyst boot camp at General Assembly, where I acquired extensive hands-on experience utilizing Python for data analysis. Throughout this immersive program, I worked on a diverse range of projects focused on data analytics.</h3>
 
 - 🔭 I’m currently working on **improving my skill in data analysis using Python**
 
