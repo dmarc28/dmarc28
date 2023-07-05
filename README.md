@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ar.chowdhury28](https://medium.com/@ar.chowdhury28)
 
-- 💬 Ask me about **Python, Excel, Tableau, Power BI**
+- 💬 Ask me about **Python, Excel, Tableau, and Power BI**
 
 - 📫 How to reach me **raihan.chowdhury.dta@gmail.com**
 
-<h3 align="left">Connect with me:(https://www.linkedin.com/in/raihan-chowdhury-dr2022/)</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/raihan-chowdhury-dr2022/</h3>
 <p align="left">
 </p>
 
