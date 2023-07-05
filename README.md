@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my skill in data analysis using Python**
 
-- 🤝 If any of my previous projects catch your interest or if you have an idea for a new project that you'd like to collaborate on, I'm always open to new opportunities. Feel free to reach out to me via LinkedIn, and let's connect to discuss the possibilities further. [Please follow me on LinkedIn](https://www.linkedin.com/in/raihan-chowdhury-dr2022/)
+- 🤝 If any of my projects catch your interest or if you have an idea for a new project that you'd like to collaborate on, I'm always open to new opportunities. Feel free to reach out to me via LinkedIn, and let's connect to discuss the possibilities further. [Please follow me on LinkedIn](https://www.linkedin.com/in/raihan-chowdhury-dr2022/)
 
 - 👨‍💻 All of my projects are available at [https://www.raihanchowdhuryphd.com/](https://www.raihanchowdhuryphd.com/)
 
